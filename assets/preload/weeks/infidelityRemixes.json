@@ -1,0 +1,50 @@
+{
+	"storyName": "AlexStep8's Infidelity Pack",
+	"difficulties": "Remixed",
+	"hideFreeplay": false,
+	"weekBackground": "infidelity",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Dejection",
+			"dejectionM",
+			[
+				20,
+				20,
+				30
+			]
+		],
+		[
+			"Unknown Suffering",
+			"mickeyInsane",
+			[
+				20,
+				0,
+				10
+			]
+		],
+		[
+			"Last Day",
+			"lastDayM",
+			[
+				30,
+				45,
+				50
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "WI Remixes"
+}
